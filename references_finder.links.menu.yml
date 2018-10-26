@@ -1,0 +1,6 @@
+references_finder.form:
+  title: 'References finder'
+  description: Find the references beetwen entities.
+  route_name:  references_finder.form
+  parent: system.admin_config_development
+  weight: 20

@@ -1,0 +1,7 @@
+references_finder.form:
+  path: 'admin/config/development/references-finder'
+  defaults:
+    _form: '\Drupal\references_finder\Form\ReferencesFinderForm'
+    _title: 'References finder'
+  requirements:
+    _permission: 'use references finder'
